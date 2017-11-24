@@ -5,4 +5,4 @@ Clone this repository into your local machine. Copy and paste the table in SASTR
 
 Run the python file gpa2.py and this will display your CGPA based on Anna University's grading scale.
 
-This GPA convertor was designed for the batch of 2014, however you can tweak it to make it work for future batches as well by modifiying the "grades" dictionary in the python script.
+This GPA converter was designed for the batch of 2014, however you can tweak it to make it work for future batches as well by modifiying the "grades" dictionary in the python script.
